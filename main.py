@@ -8,7 +8,6 @@ print("hello guys..")
 
 print("a")
 
-
 print("this my python project..")
 
 print("hello..")
