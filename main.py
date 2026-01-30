@@ -1,3 +1,10 @@
+print(
+
+
+
+
+
+
 a = input("tell something")
 
 print("this is a main python file..")
