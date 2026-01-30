@@ -1,4 +1,4 @@
-print(
+print("hey guys this my first ever program at GitHub")
 
 
 
